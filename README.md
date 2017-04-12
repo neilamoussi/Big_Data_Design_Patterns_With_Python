@@ -1,4 +1,4 @@
-# TP2: TP2- DESIGN PATTERNS MAP- REDUCE
+# DESIGN PATTERNS MAP- REDUCE
 Les Patrons de Conception Map Reduce (ou plus communément les Design Patterns) permettent
 d’aider l’utilisateur à savoir QUAND utiliser Map-Reduce pour résoudre ses problèmes.
 Chacun de ces patrons représente une classe de problèmes récurrents pour ceux qui manipulent
